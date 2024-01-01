@@ -12,3 +12,6 @@ HTML: Crafted the structure of the website to ensure a logical and user-friendly
 CSS: Styled the website for an engaging and visually appealing experience on various devices.
 
 JavaScript: Implemented dynamic features, enabling real-time updates on the shopping bag page.
+
+How to Use:
+Link to open the website- https://clickncollect.netlify.app
